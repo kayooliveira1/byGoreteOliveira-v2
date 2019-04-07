@@ -1,0 +1,1 @@
+<h1>byGoreteOliveira-V2</h1><br/><p>Reformulating the website, byGoreteOliveira, leaving you responsive, and with a more pleasing look.</p><br/><p>Developed by</p><a href=https://github.com/kayooliveira1>KayoOliveira</a>
